@@ -36,6 +36,11 @@ fun test(){
 }
 
 @Composable
+fun SocialLoginButton(){
+    //my code here
+}
+
+@Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
         text = "Hello $name!",
